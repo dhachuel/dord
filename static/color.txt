@@ -1,0 +1,5 @@
+C26153 - red
+94BA00 - green
+EFEEEA - white
+629BE8 - blue
+FFBB5A - orange
